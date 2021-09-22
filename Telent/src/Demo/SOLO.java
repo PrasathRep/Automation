@@ -12,6 +12,6 @@ public class SOLO {
 	public void login() {
 		
 		
-		System.out.println("-----------Test outcome------------");
+		System.out.println("-------------Test outcome------------");
 	}
 }
